@@ -1,3 +1,8 @@
+/*
+ * dummy
+ * 
+ * 
+ */
 package com.example.sharedpreferencestest;
 
 import android.os.Bundle;
